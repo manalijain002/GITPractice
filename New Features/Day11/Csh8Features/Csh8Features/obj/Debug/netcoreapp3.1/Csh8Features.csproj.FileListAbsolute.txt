@@ -1,0 +1,13 @@
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.exe
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.deps.json
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.runtimeconfig.json
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.runtimeconfig.dev.json
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.dll
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\bin\Debug\netcoreapp3.1\Csh8Features.pdb
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.csprojAssemblyReference.cache
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.AssemblyInfoInputs.cache
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.AssemblyInfo.cs
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.dll
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.pdb
+C:\dotnet_cg\Day11\Csh8Features\Csh8Features\obj\Debug\netcoreapp3.1\Csh8Features.genruntimeconfig.cache

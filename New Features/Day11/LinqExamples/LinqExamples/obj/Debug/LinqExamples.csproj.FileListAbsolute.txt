@@ -1,0 +1,7 @@
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojAssemblyReference.cache
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\dotnet_cg\Day11\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
